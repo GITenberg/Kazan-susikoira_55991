@@ -1,0 +1,28 @@
+_repo: Kazan-susikoira_55991
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Tervaskanto, Jussi
+    gutenberg_agent_id: '48611'
+    url: http://www.gutenberg.org/2009/agents/48611
+creator:
+  author:
+    agent_name: Curwood, James Oliver
+    birthdate: 1878
+    deathdate: 1927
+    gutenberg_agent_id: '1487'
+    url: http://www.gutenberg.org/2009/agents/1487
+    wikipedia: http://en.wikipedia.org/wiki/James_Oliver_Curwood
+description: ''
+gutenberg_issued: '2017-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55991'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Kazan susikoira
+url: http://www.gutenberg.org/ebooks/55991
